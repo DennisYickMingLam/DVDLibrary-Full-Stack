@@ -1,5 +1,5 @@
 # DVDLibrary-Full-Stack
-This is an academic project using C# ASP.NET Full-Stack.
+This is an academic project during my mthree training using C# ASP.NET Full-Stack.
 
 Description: While the backend server is set to use mock data to test functionalities, it includes an ADO and SQLScript if one wishes to test with SSMS
 - DVD_API contains C# ASP.NET backend API with full CRUD functionality

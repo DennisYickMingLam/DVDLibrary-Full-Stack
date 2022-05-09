@@ -10,4 +10,4 @@ Instruction:
 - Open DVD_API/DVDLibraryDatabase with visual studio and execute
 - Open DVD_Client/jQuery-DVD-Library/home.html with chrome (you are good to go!)
 
-
+![alt text](https://github.com/DennisYickMingLam/DVDLibrary-Full-Stack/blob/main/Screenshot.png)
